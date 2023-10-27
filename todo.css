@@ -1,0 +1,71 @@
+body {
+  background-image: url("https://cdn.create.vista.com/api/media/small/419074622/stock-video-glowing-neon-line-clipboard-with-checklist-icon-isolated-on-black-background-control-list-symbol-survey?videoStaticPreview=true&token=");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Poppins", sans-serif;
+}
+.container {
+  width: 360px;
+  padding: 33px;
+  text-align: center;
+  background-color: #fff;
+  margin-left: 42%;
+  position: absolute;
+  top: 40px;
+  color: coral;
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg");
+}
+h1 span{
+  color:rgb(0, 0, 0)
+}
+#newTask{
+  height: 50px;
+  width: 307px;
+  padding: 15px;
+  border: 2px solid rgb(6, 145, 145);
+  outline: none;
+  margin-left: 53px;
+  font-size: 19px;
+}
+
+button {
+  margin-top: 10px;
+  margin-left: 100px;
+  width: 70px;
+  height: 40px;
+  background-color: rgb(4, 29, 29);
+  color: white;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  border-radius: 25%;
+  font-size: 19px;
+}
+.todo li {
+  position: relative;
+  background-color: rgb(5, 31, 31);
+  color: white;
+  font-size: 19px;
+  padding: 7px;
+  text-align: left;
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+.todo li img {
+  margin-right: -5px;
+  height: 25px;
+  width: 30px;
+  position: absolute;
+  right: 10px;
+  cursor: pointer;
+}
+
+.todo li input{
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+#img1{
+  margin-right: 35px;
+}
