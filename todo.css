@@ -42,7 +42,9 @@ button {
   font-size: 19px;
 }
 .todo li {
+  margin-top: 10px;
   position: relative;
+  left: 2rem;
   background-color: rgb(5, 31, 31);
   color: white;
   font-size: 19px;
